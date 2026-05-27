@@ -4,8 +4,8 @@ es:
   title: >-
     Diseño Ético
   contentDir: content/es
-  languageCode: es
-  languageName: Español
+  locale: es
+  label: Español
   buildFuture: true
   params:
     contact_details:
